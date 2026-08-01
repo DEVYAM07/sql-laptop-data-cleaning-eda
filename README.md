@@ -84,3 +84,5 @@ SOURCE sql/04_eda.sql;
 🧰 Tech Stack
 1. Database Engine: MySQL
 2. Key SQL Skills: Window Functions (OVER etc), CTEs, String Parsing (SUBSTRING_INDEX, REGEXP), Mathematical Aggregations, Group Imputation Logic, DDL/DML.
+
+Thanks for checking out my project! Feel free to star ⭐️ the repository if you found it useful!
