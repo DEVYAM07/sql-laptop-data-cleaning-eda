@@ -1,5 +1,3 @@
-# sql-laptop-data-cleaning-eda
-
 # 💻 Laptop Specification Pipeline: SQL Cleaning, Feature Engineering & EDA
 
 Hey there! 👋 Welcome to my end-to-end SQL data project. 
@@ -29,4 +27,4 @@ Import the Raw Data:Open MySQL Workbench.Create a database schema called workben
 SOURCE sql/02_data_cleaning.sql;
 SOURCE sql/03_feature_engineering.sql;
 SOURCE sql/04_eda.sql;
-🧰 Tech StackDatabase Engine: MySQLKey SQL Skills: Window Functions (OVER, PARTITION BY), CTEs, String Parsing (SUBSTRING_INDEX, REGEXP), Mathematical Calculations, Data Imputation Logic, DDL/DML
+🧰 Tech StackDatabase Engine: MySQLKey SQL Skills: Window Functions (OVER, PARTITION BY), CTEs, String Parsing (SUBSTRING_INDEX, REGEXP), Mathematical Calculations, Data Imputation Logic, DDL/DML.
