@@ -66,8 +66,8 @@ Step-by-Step Instructions
 
 1. Clone this repository:
 Bash
-git clone https://github.com/[YOUR_GITHUB_USERNAME]/[YOUR_REPO_NAME].git
-cd [YOUR_REPO_NAME]
+git clone https://github.com/DEVYAM07/sql-laptop-data-cleaning-eda.git
+cd sql-laptop-data-cleaning-eda
 
 3. Database Import:
 Open MySQL Workbench.
