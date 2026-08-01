@@ -1,6 +1,5 @@
 # sql-laptop-data-cleaning-eda
 
-Markdown
 # 💻 Laptop Specification Pipeline: SQL Cleaning, Feature Engineering & EDA
 
 Hey there! 👋 Welcome to my end-to-end SQL data project. 
