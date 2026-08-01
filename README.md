@@ -1,4 +1,5 @@
 💻 Laptop Specification Pipeline: SQL Cleaning, Feature Engineering & EDA
+
 Hey there! 👋 Welcome to my end-to-end SQL data project. I'm Devyam Malhotra, and in this project, I built a complete pipeline to clean, engineer, and analyze laptop specification data using MySQL Workbench.
 
 Instead of dumping everything into one massive file, I structured the workflow into 4 sequential, modular SQL scripts—covering everything from schema initialization and complex string parsing to conditional missing value imputation and exploratory data analysis.
